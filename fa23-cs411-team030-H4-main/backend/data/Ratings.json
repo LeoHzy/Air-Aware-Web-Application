@@ -1,0 +1,602 @@
+[
+    {
+        "ratingID": "1",
+        "userID": 93,
+        "locationID": 82,
+        "score": 5
+    },
+    {
+        "ratingID": "2",
+        "userID": 37,
+        "locationID": 52,
+        "score": 5
+    },
+    {
+        "ratingID": "3",
+        "userID": 46,
+        "locationID": 38,
+        "score": 1
+    },
+    {
+        "ratingID": "4",
+        "userID": 86,
+        "locationID": 64,
+        "score": 2
+    },
+    {
+        "ratingID": "5",
+        "userID": 92,
+        "locationID": 10,
+        "score": 3
+    },
+    {
+        "ratingID": "6",
+        "userID": 60,
+        "locationID": 66,
+        "score": 3
+    },
+    {
+        "ratingID": "7",
+        "userID": 41,
+        "locationID": 72,
+        "score": 5
+    },
+    {
+        "ratingID": "8",
+        "userID": 6,
+        "locationID": 5,
+        "score": 5
+    },
+    {
+        "ratingID": "9",
+        "userID": 83,
+        "locationID": 3,
+        "score": 1
+    },
+    {
+        "ratingID": "10",
+        "userID": 91,
+        "locationID": 72,
+        "score": 2
+    },
+    {
+        "ratingID": "11",
+        "userID": 100,
+        "locationID": 78,
+        "score": 3
+    },
+    {
+        "ratingID": "12",
+        "userID": 9,
+        "locationID": 99,
+        "score": 2
+    },
+    {
+        "ratingID": "13",
+        "userID": 56,
+        "locationID": 90,
+        "score": 3
+    },
+    {
+        "ratingID": "14",
+        "userID": 35,
+        "locationID": 96,
+        "score": 5
+    },
+    {
+        "ratingID": "15",
+        "userID": 45,
+        "locationID": 64,
+        "score": 1
+    },
+    {
+        "ratingID": "16",
+        "userID": 34,
+        "locationID": 71,
+        "score": 1
+    },
+    {
+        "ratingID": "17",
+        "userID": 34,
+        "locationID": 72,
+        "score": 1
+    },
+    {
+        "ratingID": "18",
+        "userID": 12,
+        "locationID": 100,
+        "score": 3
+    },
+    {
+        "ratingID": "19",
+        "userID": 6,
+        "locationID": 58,
+        "score": 4
+    },
+    {
+        "ratingID": "20",
+        "userID": 15,
+        "locationID": 85,
+        "score": 4
+    },
+    {
+        "ratingID": "21",
+        "userID": 11,
+        "locationID": 71,
+        "score": 2
+    },
+    {
+        "ratingID": "22",
+        "userID": 29,
+        "locationID": 70,
+        "score": 1
+    },
+    {
+        "ratingID": "23",
+        "userID": 86,
+        "locationID": 16,
+        "score": 1
+    },
+    {
+        "ratingID": "24",
+        "userID": 67,
+        "locationID": 35,
+        "score": 5
+    },
+    {
+        "ratingID": "25",
+        "userID": 48,
+        "locationID": 84,
+        "score": 2
+    },
+    {
+        "ratingID": "26",
+        "userID": 5,
+        "locationID": 51,
+        "score": 4
+    },
+    {
+        "ratingID": "27",
+        "userID": 58,
+        "locationID": 13,
+        "score": 2
+    },
+    {
+        "ratingID": "28",
+        "userID": 88,
+        "locationID": 53,
+        "score": 3
+    },
+    {
+        "ratingID": "29",
+        "userID": 95,
+        "locationID": 95,
+        "score": 5
+    },
+    {
+        "ratingID": "30",
+        "userID": 34,
+        "locationID": 89,
+        "score": 3
+    },
+    {
+        "ratingID": "31",
+        "userID": 88,
+        "locationID": 54,
+        "score": 4
+    },
+    {
+        "ratingID": "32",
+        "userID": 86,
+        "locationID": 71,
+        "score": 4
+    },
+    {
+        "ratingID": "33",
+        "userID": 39,
+        "locationID": 20,
+        "score": 3
+    },
+    {
+        "ratingID": "34",
+        "userID": 29,
+        "locationID": 82,
+        "score": 1
+    },
+    {
+        "ratingID": "35",
+        "userID": 96,
+        "locationID": 32,
+        "score": 4
+    },
+    {
+        "ratingID": "36",
+        "userID": 20,
+        "locationID": 92,
+        "score": 3
+    },
+    {
+        "ratingID": "37",
+        "userID": 56,
+        "locationID": 88,
+        "score": 1
+    },
+    {
+        "ratingID": "38",
+        "userID": 54,
+        "locationID": 46,
+        "score": 5
+    },
+    {
+        "ratingID": "39",
+        "userID": 72,
+        "locationID": 44,
+        "score": 2
+    },
+    {
+        "ratingID": "40",
+        "userID": 15,
+        "locationID": 73,
+        "score": 4
+    },
+    {
+        "ratingID": "41",
+        "userID": 77,
+        "locationID": 42,
+        "score": 4
+    },
+    {
+        "ratingID": "42",
+        "userID": 38,
+        "locationID": 74,
+        "score": 1
+    },
+    {
+        "ratingID": "43",
+        "userID": 89,
+        "locationID": 9,
+        "score": 4
+    },
+    {
+        "ratingID": "44",
+        "userID": 97,
+        "locationID": 98,
+        "score": 5
+    },
+    {
+        "ratingID": "45",
+        "userID": 18,
+        "locationID": 38,
+        "score": 3
+    },
+    {
+        "ratingID": "46",
+        "userID": 37,
+        "locationID": 22,
+        "score": 1
+    },
+    {
+        "ratingID": "47",
+        "userID": 11,
+        "locationID": 91,
+        "score": 1
+    },
+    {
+        "ratingID": "48",
+        "userID": 28,
+        "locationID": 28,
+        "score": 1
+    },
+    {
+        "ratingID": "49",
+        "userID": 62,
+        "locationID": 59,
+        "score": 3
+    },
+    {
+        "ratingID": "50",
+        "userID": 45,
+        "locationID": 85,
+        "score": 3
+    },
+    {
+        "ratingID": "51",
+        "userID": 63,
+        "locationID": 38,
+        "score": 3
+    },
+    {
+        "ratingID": "52",
+        "userID": 20,
+        "locationID": 43,
+        "score": 5
+    },
+    {
+        "ratingID": "53",
+        "userID": 8,
+        "locationID": 17,
+        "score": 3
+    },
+    {
+        "ratingID": "54",
+        "userID": 88,
+        "locationID": 67,
+        "score": 2
+    },
+    {
+        "ratingID": "55",
+        "userID": 91,
+        "locationID": 54,
+        "score": 1
+    },
+    {
+        "ratingID": "56",
+        "userID": 44,
+        "locationID": 31,
+        "score": 1
+    },
+    {
+        "ratingID": "57",
+        "userID": 51,
+        "locationID": 56,
+        "score": 5
+    },
+    {
+        "ratingID": "58",
+        "userID": 87,
+        "locationID": 85,
+        "score": 2
+    },
+    {
+        "ratingID": "59",
+        "userID": 57,
+        "locationID": 74,
+        "score": 2
+    },
+    {
+        "ratingID": "60",
+        "userID": 92,
+        "locationID": 48,
+        "score": 2
+    },
+    {
+        "ratingID": "61",
+        "userID": 79,
+        "locationID": 60,
+        "score": 1
+    },
+    {
+        "ratingID": "62",
+        "userID": 66,
+        "locationID": 61,
+        "score": 3
+    },
+    {
+        "ratingID": "63",
+        "userID": 32,
+        "locationID": 65,
+        "score": 2
+    },
+    {
+        "ratingID": "64",
+        "userID": 96,
+        "locationID": 16,
+        "score": 2
+    },
+    {
+        "ratingID": "65",
+        "userID": 26,
+        "locationID": 27,
+        "score": 4
+    },
+    {
+        "ratingID": "66",
+        "userID": 86,
+        "locationID": 50,
+        "score": 3
+    },
+    {
+        "ratingID": "67",
+        "userID": 83,
+        "locationID": 17,
+        "score": 2
+    },
+    {
+        "ratingID": "68",
+        "userID": 99,
+        "locationID": 89,
+        "score": 1
+    },
+    {
+        "ratingID": "69",
+        "userID": 74,
+        "locationID": 16,
+        "score": 1
+    },
+    {
+        "ratingID": "70",
+        "userID": 60,
+        "locationID": 59,
+        "score": 3
+    },
+    {
+        "ratingID": "71",
+        "userID": 44,
+        "locationID": 36,
+        "score": 5
+    },
+    {
+        "ratingID": "72",
+        "userID": 28,
+        "locationID": 73,
+        "score": 2
+    },
+    {
+        "ratingID": "73",
+        "userID": 2,
+        "locationID": 55,
+        "score": 5
+    },
+    {
+        "ratingID": "74",
+        "userID": 16,
+        "locationID": 37,
+        "score": 1
+    },
+    {
+        "ratingID": "75",
+        "userID": 29,
+        "locationID": 12,
+        "score": 1
+    },
+    {
+        "ratingID": "76",
+        "userID": 16,
+        "locationID": 66,
+        "score": 1
+    },
+    {
+        "ratingID": "77",
+        "userID": 84,
+        "locationID": 29,
+        "score": 5
+    },
+    {
+        "ratingID": "78",
+        "userID": 22,
+        "locationID": 58,
+        "score": 5
+    },
+    {
+        "ratingID": "79",
+        "userID": 18,
+        "locationID": 9,
+        "score": 1
+    },
+    {
+        "ratingID": "80",
+        "userID": 7,
+        "locationID": 96,
+        "score": 2
+    },
+    {
+        "ratingID": "81",
+        "userID": 73,
+        "locationID": 49,
+        "score": 5
+    },
+    {
+        "ratingID": "82",
+        "userID": 63,
+        "locationID": 4,
+        "score": 3
+    },
+    {
+        "ratingID": "83",
+        "userID": 58,
+        "locationID": 36,
+        "score": 1
+    },
+    {
+        "ratingID": "84",
+        "userID": 64,
+        "locationID": 30,
+        "score": 5
+    },
+    {
+        "ratingID": "85",
+        "userID": 38,
+        "locationID": 35,
+        "score": 1
+    },
+    {
+        "ratingID": "86",
+        "userID": 59,
+        "locationID": 16,
+        "score": 3
+    },
+    {
+        "ratingID": "87",
+        "userID": 78,
+        "locationID": 93,
+        "score": 4
+    },
+    {
+        "ratingID": "88",
+        "userID": 44,
+        "locationID": 3,
+        "score": 3
+    },
+    {
+        "ratingID": "89",
+        "userID": 81,
+        "locationID": 7,
+        "score": 1
+    },
+    {
+        "ratingID": "90",
+        "userID": 1,
+        "locationID": 76,
+        "score": 3
+    },
+    {
+        "ratingID": "91",
+        "userID": 6,
+        "locationID": 27,
+        "score": 2
+    },
+    {
+        "ratingID": "92",
+        "userID": 24,
+        "locationID": 68,
+        "score": 1
+    },
+    {
+        "ratingID": "93",
+        "userID": 37,
+        "locationID": 36,
+        "score": 3
+    },
+    {
+        "ratingID": "94",
+        "userID": 84,
+        "locationID": 58,
+        "score": 4
+    },
+    {
+        "ratingID": "95",
+        "userID": 82,
+        "locationID": 97,
+        "score": 5
+    },
+    {
+        "ratingID": "96",
+        "userID": 36,
+        "locationID": 97,
+        "score": 4
+    },
+    {
+        "ratingID": "97",
+        "userID": 70,
+        "locationID": 33,
+        "score": 1
+    },
+    {
+        "ratingID": "98",
+        "userID": 23,
+        "locationID": 21,
+        "score": 3
+    },
+    {
+        "ratingID": "99",
+        "userID": 27,
+        "locationID": 1,
+        "score": 3
+    },
+    {
+        "ratingID": "100",
+        "userID": 44,
+        "locationID": 42,
+        "score": 4
+    }
+]

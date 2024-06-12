@@ -1,0 +1,902 @@
+[
+    {
+        "recordID": 1,
+        "dates": "2023-09-12",
+        "gas": "Gas1",
+        "unit": "Unit2",
+        "mean": 3.21,
+        "AQI": 421,
+        "locationID": 22
+    },
+    {
+        "recordID": 2,
+        "dates": "2023-08-15",
+        "gas": "Gas2",
+        "unit": "Unit2",
+        "mean": 19.99,
+        "AQI": 314,
+        "locationID": 37
+    },
+    {
+        "recordID": 3,
+        "dates": "2023-05-08",
+        "gas": "Gas3",
+        "unit": "Unit3",
+        "mean": 1.54,
+        "AQI": 372,
+        "locationID": 62
+    },
+    {
+        "recordID": 4,
+        "dates": "2023-09-03",
+        "gas": "Gas4",
+        "unit": "Unit2",
+        "mean": 55.06,
+        "AQI": 206,
+        "locationID": 32
+    },
+    {
+        "recordID": 5,
+        "dates": "2023-03-06",
+        "gas": "Gas2",
+        "unit": "Unit3",
+        "mean": 45.15,
+        "AQI": 286,
+        "locationID": 63
+    },
+    {
+        "recordID": 6,
+        "dates": "2023-11-01",
+        "gas": "Gas4",
+        "unit": "Unit1",
+        "mean": 39.74,
+        "AQI": 358,
+        "locationID": 66
+    },
+    {
+        "recordID": 7,
+        "dates": "2023-09-24",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 82.74,
+        "AQI": 1,
+        "locationID": 5
+    },
+    {
+        "recordID": 8,
+        "dates": "2023-07-19",
+        "gas": "Gas4",
+        "unit": "Unit3",
+        "mean": 69.11,
+        "AQI": 237,
+        "locationID": 84
+    },
+    {
+        "recordID": 9,
+        "dates": "2023-02-15",
+        "gas": "Gas3",
+        "unit": "Unit3",
+        "mean": 78.61,
+        "AQI": 164,
+        "locationID": 46
+    },
+    {
+        "recordID": 10,
+        "dates": "2023-02-22",
+        "gas": "Gas3",
+        "unit": "Unit3",
+        "mean": 6.01,
+        "AQI": 348,
+        "locationID": 30
+    },
+    {
+        "recordID": 11,
+        "dates": "2023-04-05",
+        "gas": "Gas5",
+        "unit": "Unit2",
+        "mean": 90.5,
+        "AQI": 378,
+        "locationID": 30
+    },
+    {
+        "recordID": 12,
+        "dates": "2022-12-16",
+        "gas": "Gas2",
+        "unit": "Unit1",
+        "mean": 61.33,
+        "AQI": 85,
+        "locationID": 98
+    },
+    {
+        "recordID": 13,
+        "dates": "2023-04-06",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 21.46,
+        "AQI": 119,
+        "locationID": 68
+    },
+    {
+        "recordID": 14,
+        "dates": "2023-06-13",
+        "gas": "Gas2",
+        "unit": "Unit3",
+        "mean": 12.05,
+        "AQI": 473,
+        "locationID": 100
+    },
+    {
+        "recordID": 15,
+        "dates": "2023-05-13",
+        "gas": "Gas5",
+        "unit": "Unit3",
+        "mean": 57.4,
+        "AQI": 468,
+        "locationID": 77
+    },
+    {
+        "recordID": 16,
+        "dates": "2022-12-09",
+        "gas": "Gas5",
+        "unit": "Unit1",
+        "mean": 75.84,
+        "AQI": 270,
+        "locationID": 47
+    },
+    {
+        "recordID": 17,
+        "dates": "2023-04-03",
+        "gas": "Gas2",
+        "unit": "Unit3",
+        "mean": 14.84,
+        "AQI": 457,
+        "locationID": 17
+    },
+    {
+        "recordID": 18,
+        "dates": "2023-10-22",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 38.44,
+        "AQI": 282,
+        "locationID": 77
+    },
+    {
+        "recordID": 19,
+        "dates": "2023-09-29",
+        "gas": "Gas3",
+        "unit": "Unit2",
+        "mean": 49.16,
+        "AQI": 127,
+        "locationID": 61
+    },
+    {
+        "recordID": 20,
+        "dates": "2023-09-11",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 80.76,
+        "AQI": 16,
+        "locationID": 58
+    },
+    {
+        "recordID": 21,
+        "dates": "2023-09-09",
+        "gas": "Gas5",
+        "unit": "Unit1",
+        "mean": 51.15,
+        "AQI": 175,
+        "locationID": 22
+    },
+    {
+        "recordID": 22,
+        "dates": "2023-07-12",
+        "gas": "Gas2",
+        "unit": "Unit2",
+        "mean": 90.96,
+        "AQI": 100,
+        "locationID": 51
+    },
+    {
+        "recordID": 23,
+        "dates": "2023-03-06",
+        "gas": "Gas4",
+        "unit": "Unit2",
+        "mean": 82.94,
+        "AQI": 342,
+        "locationID": 43
+    },
+    {
+        "recordID": 24,
+        "dates": "2022-12-08",
+        "gas": "Gas1",
+        "unit": "Unit2",
+        "mean": 84.01,
+        "AQI": 456,
+        "locationID": 27
+    },
+    {
+        "recordID": 25,
+        "dates": "2023-09-02",
+        "gas": "Gas5",
+        "unit": "Unit3",
+        "mean": 75.22,
+        "AQI": 267,
+        "locationID": 58
+    },
+    {
+        "recordID": 26,
+        "dates": "2023-07-13",
+        "gas": "Gas2",
+        "unit": "Unit1",
+        "mean": 40.07,
+        "AQI": 446,
+        "locationID": 53
+    },
+    {
+        "recordID": 27,
+        "dates": "2023-08-07",
+        "gas": "Gas2",
+        "unit": "Unit2",
+        "mean": 59.22,
+        "AQI": 47,
+        "locationID": 49
+    },
+    {
+        "recordID": 28,
+        "dates": "2023-08-08",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 26.39,
+        "AQI": 417,
+        "locationID": 99
+    },
+    {
+        "recordID": 29,
+        "dates": "2023-06-27",
+        "gas": "Gas4",
+        "unit": "Unit1",
+        "mean": 43.17,
+        "AQI": 221,
+        "locationID": 19
+    },
+    {
+        "recordID": 30,
+        "dates": "2023-05-16",
+        "gas": "Gas5",
+        "unit": "Unit1",
+        "mean": 15.89,
+        "AQI": 28,
+        "locationID": 29
+    },
+    {
+        "recordID": 31,
+        "dates": "2023-03-31",
+        "gas": "Gas2",
+        "unit": "Unit3",
+        "mean": 64.31,
+        "AQI": 329,
+        "locationID": 28
+    },
+    {
+        "recordID": 32,
+        "dates": "2023-06-26",
+        "gas": "Gas2",
+        "unit": "Unit2",
+        "mean": 24.07,
+        "AQI": 117,
+        "locationID": 86
+    },
+    {
+        "recordID": 33,
+        "dates": "2023-10-27",
+        "gas": "Gas1",
+        "unit": "Unit3",
+        "mean": 30.43,
+        "AQI": 421,
+        "locationID": 23
+    },
+    {
+        "recordID": 34,
+        "dates": "2022-12-15",
+        "gas": "Gas1",
+        "unit": "Unit3",
+        "mean": 83.29,
+        "AQI": 29,
+        "locationID": 37
+    },
+    {
+        "recordID": 35,
+        "dates": "2023-05-26",
+        "gas": "Gas3",
+        "unit": "Unit3",
+        "mean": 44.44,
+        "AQI": 479,
+        "locationID": 34
+    },
+    {
+        "recordID": 36,
+        "dates": "2023-04-09",
+        "gas": "Gas2",
+        "unit": "Unit1",
+        "mean": 17.79,
+        "AQI": 297,
+        "locationID": 40
+    },
+    {
+        "recordID": 37,
+        "dates": "2023-05-08",
+        "gas": "Gas1",
+        "unit": "Unit1",
+        "mean": 99.43,
+        "AQI": 99,
+        "locationID": 3
+    },
+    {
+        "recordID": 38,
+        "dates": "2022-12-10",
+        "gas": "Gas1",
+        "unit": "Unit3",
+        "mean": 69.08,
+        "AQI": 238,
+        "locationID": 16
+    },
+    {
+        "recordID": 39,
+        "dates": "2023-07-07",
+        "gas": "Gas4",
+        "unit": "Unit2",
+        "mean": 49.13,
+        "AQI": 465,
+        "locationID": 11
+    },
+    {
+        "recordID": 40,
+        "dates": "2023-01-12",
+        "gas": "Gas1",
+        "unit": "Unit3",
+        "mean": 75.9,
+        "AQI": 286,
+        "locationID": 5
+    },
+    {
+        "recordID": 41,
+        "dates": "2023-06-17",
+        "gas": "Gas4",
+        "unit": "Unit1",
+        "mean": 72.91,
+        "AQI": 457,
+        "locationID": 6
+    },
+    {
+        "recordID": 42,
+        "dates": "2023-04-04",
+        "gas": "Gas2",
+        "unit": "Unit3",
+        "mean": 75.02,
+        "AQI": 361,
+        "locationID": 23
+    },
+    {
+        "recordID": 43,
+        "dates": "2023-01-05",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 88.26,
+        "AQI": 56,
+        "locationID": 29
+    },
+    {
+        "recordID": 44,
+        "dates": "2023-09-03",
+        "gas": "Gas2",
+        "unit": "Unit2",
+        "mean": 62.99,
+        "AQI": 51,
+        "locationID": 63
+    },
+    {
+        "recordID": 45,
+        "dates": "2023-11-10",
+        "gas": "Gas2",
+        "unit": "Unit3",
+        "mean": 33.9,
+        "AQI": 123,
+        "locationID": 5
+    },
+    {
+        "recordID": 46,
+        "dates": "2023-05-23",
+        "gas": "Gas5",
+        "unit": "Unit1",
+        "mean": 61.31,
+        "AQI": 61,
+        "locationID": 91
+    },
+    {
+        "recordID": 47,
+        "dates": "2023-03-28",
+        "gas": "Gas3",
+        "unit": "Unit3",
+        "mean": 93.71,
+        "AQI": 423,
+        "locationID": 82
+    },
+    {
+        "recordID": 48,
+        "dates": "2023-11-10",
+        "gas": "Gas1",
+        "unit": "Unit2",
+        "mean": 5.49,
+        "AQI": 368,
+        "locationID": 59
+    },
+    {
+        "recordID": 49,
+        "dates": "2023-09-02",
+        "gas": "Gas2",
+        "unit": "Unit3",
+        "mean": 39.81,
+        "AQI": 150,
+        "locationID": 94
+    },
+    {
+        "recordID": 50,
+        "dates": "2023-10-02",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 25.82,
+        "AQI": 15,
+        "locationID": 64
+    },
+    {
+        "recordID": 51,
+        "dates": "2023-07-26",
+        "gas": "Gas3",
+        "unit": "Unit3",
+        "mean": 60.68,
+        "AQI": 106,
+        "locationID": 80
+    },
+    {
+        "recordID": 52,
+        "dates": "2023-03-13",
+        "gas": "Gas3",
+        "unit": "Unit3",
+        "mean": 20.36,
+        "AQI": 180,
+        "locationID": 15
+    },
+    {
+        "recordID": 53,
+        "dates": "2023-11-12",
+        "gas": "Gas2",
+        "unit": "Unit2",
+        "mean": 95.44,
+        "AQI": 267,
+        "locationID": 71
+    },
+    {
+        "recordID": 54,
+        "dates": "2023-09-27",
+        "gas": "Gas1",
+        "unit": "Unit2",
+        "mean": 1.75,
+        "AQI": 366,
+        "locationID": 56
+    },
+    {
+        "recordID": 55,
+        "dates": "2023-05-06",
+        "gas": "Gas4",
+        "unit": "Unit2",
+        "mean": 52.34,
+        "AQI": 298,
+        "locationID": 45
+    },
+    {
+        "recordID": 56,
+        "dates": "2023-11-17",
+        "gas": "Gas5",
+        "unit": "Unit2",
+        "mean": 27.74,
+        "AQI": 465,
+        "locationID": 66
+    },
+    {
+        "recordID": 57,
+        "dates": "2023-10-11",
+        "gas": "Gas2",
+        "unit": "Unit3",
+        "mean": 35.94,
+        "AQI": 180,
+        "locationID": 21
+    },
+    {
+        "recordID": 58,
+        "dates": "2023-10-26",
+        "gas": "Gas1",
+        "unit": "Unit1",
+        "mean": 1.24,
+        "AQI": 388,
+        "locationID": 69
+    },
+    {
+        "recordID": 59,
+        "dates": "2023-08-12",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 30.61,
+        "AQI": 390,
+        "locationID": 54
+    },
+    {
+        "recordID": 60,
+        "dates": "2023-10-11",
+        "gas": "Gas5",
+        "unit": "Unit2",
+        "mean": 49.46,
+        "AQI": 413,
+        "locationID": 22
+    },
+    {
+        "recordID": 61,
+        "dates": "2023-03-04",
+        "gas": "Gas3",
+        "unit": "Unit3",
+        "mean": 18.05,
+        "AQI": 414,
+        "locationID": 78
+    },
+    {
+        "recordID": 62,
+        "dates": "2023-05-21",
+        "gas": "Gas5",
+        "unit": "Unit3",
+        "mean": 84.28,
+        "AQI": 479,
+        "locationID": 25
+    },
+    {
+        "recordID": 63,
+        "dates": "2023-03-22",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 60.79,
+        "AQI": 124,
+        "locationID": 50
+    },
+    {
+        "recordID": 64,
+        "dates": "2023-09-25",
+        "gas": "Gas1",
+        "unit": "Unit1",
+        "mean": 88.03,
+        "AQI": 296,
+        "locationID": 7
+    },
+    {
+        "recordID": 65,
+        "dates": "2023-01-19",
+        "gas": "Gas4",
+        "unit": "Unit3",
+        "mean": 33.82,
+        "AQI": 6,
+        "locationID": 44
+    },
+    {
+        "recordID": 66,
+        "dates": "2022-12-27",
+        "gas": "Gas4",
+        "unit": "Unit3",
+        "mean": 2.33,
+        "AQI": 69,
+        "locationID": 12
+    },
+    {
+        "recordID": 67,
+        "dates": "2023-10-05",
+        "gas": "Gas1",
+        "unit": "Unit2",
+        "mean": 34.31,
+        "AQI": 113,
+        "locationID": 26
+    },
+    {
+        "recordID": 68,
+        "dates": "2023-06-27",
+        "gas": "Gas3",
+        "unit": "Unit2",
+        "mean": 92.04,
+        "AQI": 242,
+        "locationID": 47
+    },
+    {
+        "recordID": 69,
+        "dates": "2023-04-27",
+        "gas": "Gas1",
+        "unit": "Unit1",
+        "mean": 61.62,
+        "AQI": 178,
+        "locationID": 49
+    },
+    {
+        "recordID": 70,
+        "dates": "2023-03-25",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 94.99,
+        "AQI": 467,
+        "locationID": 88
+    },
+    {
+        "recordID": 71,
+        "dates": "2023-11-16",
+        "gas": "Gas5",
+        "unit": "Unit3",
+        "mean": 56.8,
+        "AQI": 342,
+        "locationID": 61
+    },
+    {
+        "recordID": 72,
+        "dates": "2023-07-13",
+        "gas": "Gas5",
+        "unit": "Unit2",
+        "mean": 17.31,
+        "AQI": 73,
+        "locationID": 91
+    },
+    {
+        "recordID": 73,
+        "dates": "2022-12-30",
+        "gas": "Gas1",
+        "unit": "Unit3",
+        "mean": 33.33,
+        "AQI": 117,
+        "locationID": 65
+    },
+    {
+        "recordID": 74,
+        "dates": "2023-03-05",
+        "gas": "Gas2",
+        "unit": "Unit2",
+        "mean": 89.53,
+        "AQI": 25,
+        "locationID": 95
+    },
+    {
+        "recordID": 75,
+        "dates": "2023-06-15",
+        "gas": "Gas3",
+        "unit": "Unit3",
+        "mean": 60.91,
+        "AQI": 237,
+        "locationID": 13
+    },
+    {
+        "recordID": 76,
+        "dates": "2023-08-25",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 28.92,
+        "AQI": 147,
+        "locationID": 5
+    },
+    {
+        "recordID": 77,
+        "dates": "2023-05-30",
+        "gas": "Gas4",
+        "unit": "Unit1",
+        "mean": 6.26,
+        "AQI": 468,
+        "locationID": 20
+    },
+    {
+        "recordID": 78,
+        "dates": "2023-09-26",
+        "gas": "Gas4",
+        "unit": "Unit1",
+        "mean": 98.07,
+        "AQI": 67,
+        "locationID": 50
+    },
+    {
+        "recordID": 79,
+        "dates": "2023-06-23",
+        "gas": "Gas1",
+        "unit": "Unit1",
+        "mean": 76.09,
+        "AQI": 335,
+        "locationID": 36
+    },
+    {
+        "recordID": 80,
+        "dates": "2023-03-13",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 71.06,
+        "AQI": 440,
+        "locationID": 1
+    },
+    {
+        "recordID": 81,
+        "dates": "2023-04-08",
+        "gas": "Gas4",
+        "unit": "Unit3",
+        "mean": 65.9,
+        "AQI": 108,
+        "locationID": 70
+    },
+    {
+        "recordID": 82,
+        "dates": "2023-09-19",
+        "gas": "Gas4",
+        "unit": "Unit1",
+        "mean": 83.8,
+        "AQI": 211,
+        "locationID": 61
+    },
+    {
+        "recordID": 83,
+        "dates": "2022-12-22",
+        "gas": "Gas4",
+        "unit": "Unit3",
+        "mean": 48.69,
+        "AQI": 139,
+        "locationID": 8
+    },
+    {
+        "recordID": 84,
+        "dates": "2023-05-17",
+        "gas": "Gas4",
+        "unit": "Unit1",
+        "mean": 35.58,
+        "AQI": 175,
+        "locationID": 8
+    },
+    {
+        "recordID": 85,
+        "dates": "2023-10-16",
+        "gas": "Gas1",
+        "unit": "Unit1",
+        "mean": 6.68,
+        "AQI": 392,
+        "locationID": 55
+    },
+    {
+        "recordID": 86,
+        "dates": "2023-06-15",
+        "gas": "Gas4",
+        "unit": "Unit1",
+        "mean": 91.1,
+        "AQI": 160,
+        "locationID": 76
+    },
+    {
+        "recordID": 87,
+        "dates": "2023-01-06",
+        "gas": "Gas2",
+        "unit": "Unit1",
+        "mean": 63.94,
+        "AQI": 395,
+        "locationID": 12
+    },
+    {
+        "recordID": 88,
+        "dates": "2023-11-28",
+        "gas": "Gas4",
+        "unit": "Unit2",
+        "mean": 7.73,
+        "AQI": 206,
+        "locationID": 74
+    },
+    {
+        "recordID": 89,
+        "dates": "2023-10-10",
+        "gas": "Gas3",
+        "unit": "Unit1",
+        "mean": 0.22,
+        "AQI": 213,
+        "locationID": 33
+    },
+    {
+        "recordID": 90,
+        "dates": "2023-08-31",
+        "gas": "Gas4",
+        "unit": "Unit1",
+        "mean": 28.53,
+        "AQI": 479,
+        "locationID": 2
+    },
+    {
+        "recordID": 91,
+        "dates": "2022-12-08",
+        "gas": "Gas5",
+        "unit": "Unit1",
+        "mean": 58.11,
+        "AQI": 415,
+        "locationID": 4
+    },
+    {
+        "recordID": 92,
+        "dates": "2023-01-15",
+        "gas": "Gas1",
+        "unit": "Unit2",
+        "mean": 87.4,
+        "AQI": 151,
+        "locationID": 19
+    },
+    {
+        "recordID": 93,
+        "dates": "2023-01-02",
+        "gas": "Gas1",
+        "unit": "Unit3",
+        "mean": 60.54,
+        "AQI": 80,
+        "locationID": 76
+    },
+    {
+        "recordID": 94,
+        "dates": "2023-10-23",
+        "gas": "Gas1",
+        "unit": "Unit3",
+        "mean": 36.99,
+        "AQI": 358,
+        "locationID": 82
+    },
+    {
+        "recordID": 95,
+        "dates": "2023-02-25",
+        "gas": "Gas2",
+        "unit": "Unit1",
+        "mean": 72.21,
+        "AQI": 40,
+        "locationID": 58
+    },
+    {
+        "recordID": 96,
+        "dates": "2022-12-27",
+        "gas": "Gas4",
+        "unit": "Unit2",
+        "mean": 1.27,
+        "AQI": 346,
+        "locationID": 18
+    },
+    {
+        "recordID": 97,
+        "dates": "2023-08-07",
+        "gas": "Gas1",
+        "unit": "Unit3",
+        "mean": 25.97,
+        "AQI": 208,
+        "locationID": 5
+    },
+    {
+        "recordID": 98,
+        "dates": "2023-09-19",
+        "gas": "Gas1",
+        "unit": "Unit2",
+        "mean": 27.41,
+        "AQI": 104,
+        "locationID": 70
+    },
+    {
+        "recordID": 99,
+        "dates": "2023-10-31",
+        "gas": "Gas4",
+        "unit": "Unit3",
+        "mean": 15.22,
+        "AQI": 345,
+        "locationID": 24
+    },
+    {
+        "recordID": 100,
+        "dates": "2023-07-01",
+        "gas": "Gas1",
+        "unit": "Unit1",
+        "mean": 88.4,
+        "AQI": 324,
+        "locationID": 7
+    }
+]
